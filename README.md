@@ -9,7 +9,7 @@
 ## Getting Started
 - **Recipes:** Crafting recipes can be viewed using [**EMI**](https://www.curseforge.com/minecraft/mc-mods/emi).
 - **Motobox Parts:** Craft an Auto Mechanic Table. Use the GUI to craft the frame, engine, and wheels for your automobile. You can optionally craft an attachment.
-- **Building your Motobox:** Craft an Automobile Assembler, as well as a Hammer. Place parts on the assembler until the vehicle is complete. Use a Hammer to destroy the vehicle. After building, add your attachments.
+- **Building your Motobox:** Craft an Motobox Assembler, as well as a Hammer. Place parts on the assembler until the vehicle is complete. Use a Hammer to destroy the vehicle. After building, add your attachments.
 
 ![Automobile Construction](./md/construction.png)
 ![Automobile Types](./md/parking.png)

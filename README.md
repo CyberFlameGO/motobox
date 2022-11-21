@@ -27,3 +27,9 @@
 - RTrigger - Drift
 
 ![Driving](./md/driving.png)
+
+##Creator and helpers
+- DrAlpha
+- Foundationgames
+- Glitch
+- 

@@ -30,5 +30,8 @@
 
 ## Creator and helpers
 - DrAlpha
-- Foundationgames
+- FoundationGames
 - Glitch
+- Papier
+- Creatomat
+- Chumasay
